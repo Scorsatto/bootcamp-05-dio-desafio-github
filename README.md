@@ -1,2 +1,5 @@
-# bootcamp-05-dio-desafio-github
-Desafio de Projeto sobre Git/GitHub (everis)
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Projeto.
+
+## Links Úteis
+[Sintaxe Básica do Markdown](https://markdown.net.br/sintaxe-basica/)
